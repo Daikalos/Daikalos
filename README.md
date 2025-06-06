@@ -1,4 +1,6 @@
-## Hi there 👋
+## Heyo 👋
+
+Here you'll find a few notable projects I've worked on.
 
 <!--
 **Daikalos/Daikalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
