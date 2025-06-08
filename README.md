@@ -2,6 +2,9 @@
 
 Here you'll find a few neat projects I've worked on.
 
+I've been busy with studying at TGA, so you won't see much activity here as of late.
+If you wish to see more of my projects, you can find them here: https://www.tobiasgarpenhall.com/
+
 <!--
 **Daikalos/Daikalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
